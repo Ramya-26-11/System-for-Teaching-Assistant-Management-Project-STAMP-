@@ -1,4 +1,5 @@
 **Overview of the Idea**
+
 	Below is the flow of automated platform that transforms the entire TA management lifecycle through improved efficiency, transparency, and collaboration:
 
 <img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/9995e274-56d9-4ec4-ab1c-e111ea8d3599" />
