@@ -1,6 +1,6 @@
 **Overview of the Idea**
 
-	Below is the flow of automated platform that transforms the entire TA management lifecycle through improved efficiency, transparency, and collaboration:
+Below is the flow of automated platform that transforms the entire TA management lifecycle through improved efficiency, transparency, and collaboration:
 
 <img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/9995e274-56d9-4ec4-ab1c-e111ea8d3599" />
 
@@ -36,12 +36,14 @@ In order to ensure that the data is both accurate and complete, certain measures
 NOTE: Candidates who receive offers can choose to either confirm their acceptance or decline the offers.
 
 **Key challenges **
-•	Handling walk-in applications.
-•	Technical issues like server not responding. 
-•	Scheduling conflicts on classes timings for courses. 
-•	Security for data – Authentication (2-step)
+
+1. Handling walk-in applications.
+2. Technical issues like server not responding.
+3. Scheduling conflicts on classes timings for courses.
+4. Security for data – Authentication (2-step)
 
 **Key technologies **
+
 1.	Development Platform: IntelliJ
 2.	Programming Language: Java
 3.	Database: MySQL
